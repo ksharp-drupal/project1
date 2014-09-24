@@ -1,9 +1,9 @@
 #local edit 
-# hello there a change by a colleague
-something else a colleague did
+# hello there
+something else a colleauge did
 four score and seven years ago
 an example of a remote edit
-
+things to do
 another web edit
 
 added foo feature.
